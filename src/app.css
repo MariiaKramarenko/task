@@ -1,0 +1,18 @@
+body {
+  margin-top: 20px;
+  background-image: url("./assets/img.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+
+}
+
+.menu {
+  margin-bottom: 20px;
+}
+
+.popup {
+  max-width: 600px !important;
+}
+
+
+
